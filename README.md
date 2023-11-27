@@ -3,8 +3,7 @@
     <img src="https://cdn1.epicgames.com/ue/product/Screenshot/11-1920x1080-fd01499fbe14e9949a692881b1acee1b.png?resize=1&w=1920">
     <h1>Hi, I'm Brett.</h1>
     <p>I'm just a random kid who has interest in godot game development and ethical hacking. I can also do some other useless things like web development and basic machine learning</p>
-    <br>
-    <p>Creator/Founder of StudGalaxy</p>
+    <h3>Creator/Founder of StudGalaxy</h3>
     <a href="https://studgalaxy.com/">https://studgalaxy.com</a>
   </body>
 </html>
