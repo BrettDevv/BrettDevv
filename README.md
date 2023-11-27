@@ -1,4 +1,11 @@
-### Hi there 👋
+<html>
+  <body>
+    <img src="https://marketplace-website-node-launcher-prod.ol.epicgames.com/ue/marketplace/en-US/product/cartoon-low-poly-city">
+    <h1>Sup! I'm  Full-Stack Website Developer and Game Developer</h1>
+    <h3>I'm just a random kid who has interest in game development and ethical hacking.</h3>
+  </body>
+</html>
+
 
 <!--
 **PlasmaticSquid/PlasmaticSquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
