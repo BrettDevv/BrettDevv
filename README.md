@@ -18,7 +18,13 @@
       <li><b>.BAT</b></li>
     </ol>
     <h4>Current Projects</h4>
-    <p>nothing (as of right now)</p>
+    <h2>ClubSquid</h2>
+<p>ClubSquid is a upcoming social platform where users can collect and trade a variety of squids, build their own worlds using blocks, play minigames, and build up their islands using the gold they earn from their adventures.</p>
+
+
+<
+
+
   </body>
 </html>
 
