@@ -17,18 +17,7 @@
       <li><b>Lua/LuaU</b></li>
       <li><b>.BAT</b></li>
     </ol>
-    <h4>Current Projects</h4>
-    <h2>Pixel Warzone</h2>
-    <p>Pixel Warzone is a online FPS shooter that'll be avaliable on Roblox. Each player will be given a random weapon, and each time they kill a player, their weapons will swap. Whoever has the most weapons at a given time will win.</p>
-    <br>
-    <p>Users will be able to build their own maps and have them published into the in-game voting menu, which I'm planning to have implemented using a combination of luaU, node.js and mongoDB.</p>
-    <br>
-    <br>
-    <h2>ClubSquid (ON HOLD)</h2>
-<p>ClubSquid is a upcoming social platform where users can collect and trade a variety of squids, build their own worlds using blocks, play minigames, and build up their islands using the gold they earn from their adventures.</p>
-
-
-<
+    <h4>Current Projectd</h4>
 
 
   </body>
