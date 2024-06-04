@@ -17,7 +17,7 @@
       <li><b>Lua/LuaU</b></li>
       <li><b>.BAT</b></li>
     </ol>
-    <h4>Current Projectd</h4>
+    <h4>Current Projects</h4>
 
 
   </body>
