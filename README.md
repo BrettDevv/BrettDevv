@@ -18,8 +18,13 @@
       <li><b>.BAT</b></li>
     </ol>
     <h4>Current Projects</h4>
+    <h1>BedWars Online</h1>
+    <p>BedWars Online is a Roblox recreation of Hypixel BedWars, but instead users can create their own maps and kits. Maps can be built using the in-game map builder, and they can be published into the game for other users to play on. Kits can be designed by users using block coding.</p>
 
-
+<a href="https://bedwars.online">Official Website</a>
+<br>
+<h1>StudGalaxy Rewritten (ON HOLD)</h1>
+<p>StudGalaxy is a recreation of a popular gaming platform, Roblox. Users can collect skins, create their own games using JavaScript/Python, play games made by other users, socialize on forums, and more.</p>
   </body>
 </html>
 
