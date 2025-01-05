@@ -4,7 +4,7 @@
     <h1>Hi, I'm Brett.</h1>
     <p>I'm 16, and I'm a game developer and website developer.</p>
     <br>
-    <p>I was a Roblox game developer, but I slowed down on my Roblox work after my account got deleted. I use the <a href="https://expressjs.com/">Express</a> framework to build websites, and I primarily use the <a href="https://godotengine.org">Godot Engine</a> to build web games.</p>
+    <p>I was a Roblox game developer, but I slowed down on my Roblox work after my account got deleted. I use the <a href="https://expressjs.com/">Express</a> framework to build websites, and I primarily use the <a href="https://godotengine.org">Godot Engine</a> to build web games. I like to build games that are related to pixels and voxels.</p>
   </body>
 </html>
 
