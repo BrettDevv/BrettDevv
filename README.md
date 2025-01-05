@@ -1,23 +1,10 @@
 <html>
   <body>
-    <img src="https://cdn1.epicgames.com/ue/product/Screenshot/11-1920x1080-fd01499fbe14e9949a692881b1acee1b.png?resize=1&w=1920">
+    <img src="https://cuberely.com/game_photo.png">
     <h1>Hi, I'm Brett.</h1>
-    <p>I'm 15, I spend most of my free time coding, drawing, and makng music.</p>
+    <p>I'm 16, and I'm a game developer and website developer.</p>
     <br>
-    <p>If you're interested, here's a list of programming languages I can use pretty confidently</p>
-    <ol>
-      <li><b>HTML</b></li>
-      <li><b>CSS</b></li>
-      <li><b>JavaScript/Node.js</b></li>
-      <li><b>GDScript</b></li>
-      <li><b>Python</b></li>
-<li><b>Java</b></li>
-<li><b>Vanila PHP</b></li>
-      <li><b>Golang</b></li>
-      <li><b>Lua/LuaU</b></li>
-      <li><b>.BAT</b></li>
-    </ol>
-    <h4>Current Projects</h4>
+    <p>I was a Roblox game developer, but I slowed down on my Roblox work after my account got deleted. I use the <a href="https://expressjs.com/">Express</a> framework to build websites, and I primarily use the <a href="https://godotengine.org">Godot Engine</a> to build web games.</p>
   </body>
 </html>
 
