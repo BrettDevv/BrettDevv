@@ -1,6 +1,6 @@
 <html>
   <body>
-    <img src="https://cuberely.com/game_photo.png">
+    <img src="[https://cuberely.com/game_photo.png](https://cdn.discordapp.com/attachments/1321932776529858604/1327104465475473479/Screenshot_2025-01-09_203808.png?ex=67828298&is=67813118&hm=8bfd21a01dba148b452fc9731bd1bdef0b7a70a37a7a402fbc9017486bbb39c4&)">
     <h1>Hi, I'm Brett.</h1>
     <p>I'm 16, and I'm a game developer and website developer.</p>
     <p>I was a Roblox game developer, but I slowed down on my Roblox work after my account got deleted. I use the <a href="https://expressjs.com/">Express</a> framework to build websites, and I primarily use the <a href="https://godotengine.org">Godot Engine</a> to build web games. I like to create games that are related to pixels and voxels, and I usually create websites that go together with my games.</p>
