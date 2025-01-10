@@ -1,30 +1,6 @@
 <html>
   <body>
-    <img src="<html>
-  <body>
     <img src="https://cuberely.com/game_photo.png">
-    <h1>Hi, I'm Brett.</h1>
-    <p>I'm 16, and I'm a game developer and website developer.</p>
-    <p>I was a Roblox game developer, but I slowed down on my Roblox work after my account got deleted. I use the <a href="https://expressjs.com/">Express</a> framework to build websites, and I primarily use the <a href="https://godotengine.org">Godot Engine</a> to build web games. I like to create games that are related to pixels and voxels, and I usually create websites that go together with my games.</p>
-  </body>
-</html>
-
-
-<!--
-**PlasmaticSquid/PlasmaticSquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-">
     <h1>Hi, I'm Brett.</h1>
     <p>I'm 16, and I'm a game developer and website developer.</p>
     <p>I was a Roblox game developer, but I slowed down on my Roblox work after my account got deleted. I use the <a href="https://expressjs.com/">Express</a> framework to build websites, and I primarily use the <a href="https://godotengine.org">Godot Engine</a> to build web games. I like to create games that are related to pixels and voxels, and I usually create websites that go together with my games.</p>
