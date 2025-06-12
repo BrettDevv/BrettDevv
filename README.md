@@ -5,7 +5,7 @@
     <p>I'm a 16 year old game developer from Texas.</p>
     <p>I started off doing game development on <a href="https://roblox.com">Roblox</a>, but I stopped after my account was terminated. I still continue to build video games, but I usually do my gamedev work outside of Roblox. I'm also capable of handling tasks outside of game development, such as web development & app development.</p>
     <br>
-    <p>I primarily utilize the <a href="https://godotengine.org">Godot Engine</a> for game development & app development. I usually use <a href="https://expressjs.org">Express.js</a> to create the backend for my websites, and <a href="https://bulma.io">Bulma</a> to create the frontend . I usually create websites that go together with my games.
+    <p>I primarily utilize the <a href="https://godotengine.org">Godot Engine</a> for game/app development. I usually use <a href="https://expressjs.org">Express.js</a> to create the backend for my websites, and <a href="https://bulma.io">Bulma</a> to create the frontend . I usually create websites that go together with my games.
   </body>
 </html>
 
