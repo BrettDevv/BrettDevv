@@ -1,6 +1,6 @@
 <html>
   <body>
-    <img src="[https://cdn.discordapp.com/attachments/1172583437870313482/1338346521405423752/Screenshot_2025-02-08_185051.png?ex=67ab6893&is=67aa1713&hm=ac8122e4199fe8f1ef6520b6b5653accc971a42](https://cdn.discordapp.com/attachments/1321994319770685551/1363640876504715465/Screenshot_2025-04-19_200220.png?ex=684b5308&is=684a0188&hm=a459d8ac39e3ebda555fd8291993db589c48875f858a6fd967c13a46dbd6c805&)7a6d0610b5a494f65faa5d228&">
+    <img src="[https://cdn.discordapp.com/attachments/1172583437870313482/1338346521405423752/Screenshot_2025-02-08_185051.png?ex=67ab6893&is=67aa1713&hm=ac8122e4199fe8f1ef6520b6b5653accc971a42](https://cdn.discordapp.com/attachments/1321994319770685551/1363640876504715465/Screenshot_2025-04-19_200220.png">
     <h1>Hi, I'm Brett.</h1>
     <p>I'm 16, and I'm a game developer and website developer.</p>
     <p>I was a Roblox game developer, but I slowed down on my Roblox work after my account got deleted. I use the <a href="https://expressjs.com/">Express</a> framework to build websites, and I primarily use the <a href="https://godotengine.org">Godot Engine</a> to build web games. I like to create games that are related to pixels and voxels, and I usually create websites that go together with my games.</p>
